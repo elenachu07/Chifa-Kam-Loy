@@ -11,8 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="inline-block">
               <span className="text-2xl font-serif font-bold">
-                <span className="text-primary">Dragón</span>{" "}
-                <span className="text-gold">Dorado</span>
+                <span className="text-primary">Chifa Kam Loy</span>{" "}
               </span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed">

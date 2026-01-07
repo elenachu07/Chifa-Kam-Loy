@@ -56,7 +56,7 @@ const Header = () => {
             <span className="text-2xl md:text-3xl font-serif font-bold text-primary">
               Chifa 
             </span>
-            <span className="text-2xl md:text-3xl font-serif font-bold text-gold">
+            <span className="text-2xl md:text-3xl font-serif font-bold text-primary">
               Kam
             </span>
             <span className="text-2xl md:text-3xl font-serif font-bold text-primary">
